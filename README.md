@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=bbomi1973)](https://solved.ac/bbomi1973)
+
 <!--
 **KIMSEI1124/KIMSEI1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
