@@ -13,7 +13,9 @@ I hope to develop every beautiful things.
 
 ## 🔥 Stats
 ![KIMSEI1124's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMSEI1124&show_icons=true)
+<!--
 [![KIMSEI1124's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KIMSEI1124)](https://github.com/anuraghazra/github-readme-stats)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSEI1124&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=bbomi1973)](https://solved.ac/bbomi1973)
 
