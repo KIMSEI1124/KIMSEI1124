@@ -1,3 +1,5 @@
+![Last Commit](https://img.shields.io/github/last-commit/KIMSEI1124/KIMSEI1124)
+
 Hi there 👋 I hope to be a **Java backend developer**.🚀<br>
 Currently studying Spring Framework and CI/CD.
 
