@@ -6,10 +6,16 @@ I hope to develop every beautiful things.
 
 ## 💪 Skills
 
-### *️⃣ Languages
-![Java](https://img.shields.io/badge/-java-orange)
-### 🔧 Tools
+### Languages
+![Java](https://img.shields.io/badge/-java-orange) ![Spring Freamwork](https://img.shields.io/badge/Spring%20Freamwork-6DB33F?logo=Spring&logoColor=white)
 
+### DataBase
+![H2DB](https://img.shields.io/badge/H2DB-blue) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white) <br>
+
+<!-- https://img.shields.io/badge/{$badgeName}-{$badgeColor}?logo={$badgeLogo}&logoColor={$logoColor} -->
+### Tools
+![Intellij IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
 
 ## 🔥 Stats
 ![KIMSEI1124's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMSEI1124&show_icons=true)
