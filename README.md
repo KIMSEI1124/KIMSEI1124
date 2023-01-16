@@ -14,7 +14,12 @@ I hope to develop every beautiful things.
 ### DataBase
 ![H2DB](https://img.shields.io/badge/H2DB-blue) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white) <br>
 
-<!-- https://img.shields.io/badge/{$badgeName}-{$badgeColor}?logo={$badgeLogo}&logoColor={$logoColor} -->
+### Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=SonarQube&logoColor=white)
+
+<!-- https://img.shields.io/badge/{$badgeName}-{$badgeColor}?logo={$badgeLogo}&logoColor=white -->
 ### Tools
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
