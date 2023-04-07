@@ -7,6 +7,7 @@
 <img src='https://user-images.githubusercontent.com/74192619/230572160-8f2888f6-d06c-41a4-a3b0-c398cf95263d.png' alt='' />
 
 </br>
+</br>
 
 Hi there 👋 I hope to be a Java backend developer.🚀
 </br>
@@ -15,11 +16,7 @@ Currently studying Spring Framework and CI/CD.
 I enjoy running and listening to music.🏃🎧</br>
 I hope to develop every beautiful things.
 
-</br>
-
 ## ✨ My Skills ✨
-
----
 
 ![Java](https://img.shields.io/badge/-java-orange)
 ![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)
@@ -44,8 +41,6 @@ I hope to develop every beautiful things.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
 
 ## 🔥 Stats 🔥
-
----
 
 ### Github Stats
 
