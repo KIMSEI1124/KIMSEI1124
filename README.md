@@ -46,6 +46,8 @@ I hope to develop every beautiful things.
 
 </br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KIMSEI1124)](https://git.io/streak-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMSEI1124&show_icons=true)
 
 ### Most Used Languages
