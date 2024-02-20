@@ -46,7 +46,7 @@ I hope to develop every beautiful things.
 
 </br>
 
-[[![GitHub Streak](https://streak-stats.demolab.com/?user=KIMSEI1124)](https://git.io/streak-stats)](https://streak-stats.demolab.com/?user=KIMSEI1124&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KIMSEI1124&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMSEI1124&show_icons=true)
 
