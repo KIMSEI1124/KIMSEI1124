@@ -16,6 +16,8 @@ Currently studying Spring Framework and CI/CD.
 I enjoy running and listening to music.🏃🎧</br>
 I hope to develop every beautiful things.
 
+<a href="https://velog.io/@kimsei1124"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kimsei1124"/></a>
+
 ## ✨ My Skills ✨
 
 ![Java](https://img.shields.io/badge/-java-orange)
