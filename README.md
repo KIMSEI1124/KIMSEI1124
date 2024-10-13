@@ -9,12 +9,13 @@
 </br>
 </br>
 
-Hi there 👋 I hope to be a Java backend developer.🚀
-</br>
-Currently studying Spring Framework and CI/CD.
+### Introduce
 
-I enjoy running and listening to music.🏃🎧</br>
-I hope to develop every beautiful things.
+'Do it For the Plot! 일단 해보고 싶은 것을 해보자!'는 제 모토로 **새로운 도전을 두려워하지 않습니다.**
+
+'이건 왜 사용할까?' 도구를 사용할 때는 **그 이유를 파악하고, 더 효율적으로 사용할 방법을 항상 고민**합니다.
+
+**모르는 것을 인정하고 질문하는 용기**가 있어, 팀원들과 지식을 자유롭게 공유하며 협력합니다.
 
 <a href="https://velog.io/@kimsei1124"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kimsei1124"/></a>
 
@@ -42,26 +43,14 @@ I hope to develop every beautiful things.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
 
+## 📰 Article
+
+[신한은행, 청년 채용 연계한 '신한 해커톤 with SSAFY' 개최](https://daily.hankooki.com/news/articleView.html?idxno=1000809)
+
 ## 🔥 Stats 🔥
 
-### Github Stats
-
-</br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KIMSEI1124&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMSEI1124&show_icons=true)
-
-### Most Used Languages
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSEI1124&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Beakjonn Solved Rank
-
-</br>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=bbomi1973)](https://solved.ac/bbomi1973)
+| Github Streak| Github Stats| Beakjoon |
+|---|---|---|
+|[![GitHub Streak](https://streak-stats.demolab.com?user=KIMSEI1124&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)|![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMSEI1124&show_icons=true)|[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=bbomi1973)](https://solved.ac/bbomi1973)|
 
 </div>
