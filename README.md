@@ -19,7 +19,7 @@
 
 <a href="https://velog.io/@kimsei1124"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kimsei1124"/></a>
 
-## ✨ My Skills ✨
+## My Skills ✨
 
 | Category  |  Technologies |
 |:---: |:---:|
@@ -29,11 +29,17 @@
 | DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white) |
 | Tools | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white) |
 
-## 📰 Article
+## Awards 🏆
+
+| **프로젝트 / 행사명**         | **날짜**      | **수상 내용**            | **주최기관**                    | **수상기관**          |
+|:-----------------------------:|:-------------:|:------------------------:|:------------------------------:|:--------------------:|
+| 빅데이터 분산 특화 프로젝트   | 2024.04.05    | 우수상 (2등)                        | 삼성 청년 SW 아카데미           | 삼성전자주식회사                   |
+| OPEN API 활용 프로젝트         | 2023.11.24    | 우수상 (2등)                        | 삼성 청년 SW 아카데미           | 삼성전자주식회사                   |
+| 신한해커톤 With SSAFY          | 2023.09.17    | 최우수상 (2등)           | 신한은행                        | 신한은행            |
 
 [신한은행, 청년 채용 연계한 '신한 해커톤 with SSAFY' 개최](https://daily.hankooki.com/news/articleView.html?idxno=1000809)
 
-## 🔥 Stats 🔥
+## Stats 🔥
 
 | Github Streak| Github Stats|
 |:---:|:---:|
