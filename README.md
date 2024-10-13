@@ -39,6 +39,13 @@
 
 [신한은행, 청년 채용 연계한 '신한 해커톤 with SSAFY' 개최](https://daily.hankooki.com/news/articleView.html?idxno=1000809)
 
+## Education 🎓
+
+| 기관 | 과정 / 전공 | 기간 |
+|:---:|:---:|:---:|
+|SSAFY 10th | Java, Web Programming Course | 2023.07 ~ 2024.06 |
+| Hankyong National Univ | Department of Computer Science and Engineering | 2017.03 ~ 2023.02 |
+ 
 ## Stats 🔥
 
 | Github Streak| Github Stats|
