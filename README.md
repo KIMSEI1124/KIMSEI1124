@@ -21,27 +21,13 @@
 
 ## ✨ My Skills ✨
 
-![Java](https://img.shields.io/badge/-java-orange)
-![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=Spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=Spring%20Security&logoColor=white)
-![Querydsl](https://img.shields.io/badge/Querydsl-blue)
-![MyBatis](https://img.shields.io/badge/MyBatis-red)
-
-![H2DB](https://img.shields.io/badge/H2DB-blue)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)
-![Html](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=SonarQube&logoColor=white)
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
+| Category  |  Technologies |
+|:---: |:---:|
+| Backend | ![Java](https://img.shields.io/badge/-Java-orange) ![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=Spring&logoColor=white) |
+| Database | ![H2DB](https://img.shields.io/badge/H2DB-blue) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white) |
+| Frontend | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white) ![Html](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white) |
+| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white) |
+| Tools | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white) |
 
 ## 📰 Article
 
