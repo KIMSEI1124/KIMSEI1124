@@ -49,8 +49,10 @@
 
 ## 🔥 Stats 🔥
 
-| Github Streak| Github Stats| Beakjoon |
-|---|---|---|
-|[![GitHub Streak](https://streak-stats.demolab.com?user=KIMSEI1124&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)|![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMSEI1124&show_icons=true)|[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=bbomi1973)](https://solved.ac/bbomi1973)|
+| Github Streak| Github Stats|
+|:---:|:---:|
+|<img src="https://streak-stats.demolab.com?user=KIMSEI1124&theme=dark&hide_border=true&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly" width=400 />|<img src="https://github-readme-stats.vercel.app/api?username=KIMSEI1124&show_icons=true" width=400 />|
+| **Most Language** | **Beakjoon** |
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSEI1124&layout=compact" width=400 />|<img src="http://mazassumnida.wtf/api/generate_badge?boj=bbomi1973" witdh=400 />
 
 </div>
