@@ -29,6 +29,10 @@
 | DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white) |
 | Tools | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=IntelliJ%20IDEA&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white) |
 
+## Career 💼
+
+[NongHyup Bank](https://www.nhbank.com) / 2024.12 ~
+
 ## Awards 🏆
 
 | **프로젝트 / 행사명**         | **날짜**      | **수상 내용**            | **주최기관**                    | **수상기관**          |
@@ -45,7 +49,7 @@
 |:---:|:---:|:---:|
 |SSAFY 10th | Java, Web Programming Course | 2023.07 ~ 2024.06 |
 | Hankyong National Univ | Department of Computer Science and Engineering | 2017.03 ~ 2023.02 |
- 
+
 ## Stats 🔥
 
 | Github Streak| Github Stats|
