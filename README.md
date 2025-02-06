@@ -33,7 +33,7 @@
 
 |                 **회사**                  | **직무** |  **날짜**   |
 |:---------------------------------------:|:------:|:---------:|
-| [NongHyup Bank](https://www.nhbank.com) |   IT   | 2024.12 ~ |
+| [NongHyup Bank](https://www.nhbank.com) | External Finance IT | 2024.12 ~ |
 
 ## Awards 🏆
 
