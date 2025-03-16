@@ -4,8 +4,6 @@
 
 <div align= 'center'>
 
-<img src='https://user-images.githubusercontent.com/74192619/230572160-8f2888f6-d06c-41a4-a3b0-c398cf95263d.png' alt='' />
-
 </br>
 </br>
 
